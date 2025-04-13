@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -25,3 +26,4 @@ python-dotenv
 numpy
 scikit-learn
 grandalf
+beautifulsoup4
