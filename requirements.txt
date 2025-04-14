@@ -28,3 +28,5 @@ numpy
 scikit-learn
 grandalf
 beautifulsoup4
+chromadb
+tiktoken
