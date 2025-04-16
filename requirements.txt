@@ -30,3 +30,5 @@ grandalf
 beautifulsoup4
 chromadb
 tiktoken
+wikipedia
+faiss-cpu
