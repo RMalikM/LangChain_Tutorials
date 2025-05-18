@@ -77,7 +77,7 @@ if __name__=='__main__':
 
     # Create Vector Store
     vector_store = get_vector_store(
-        vstore_dir="chroma_db",
+        vstore_dir="my_chroma_db",
         collection_name="sample"
     )
 
